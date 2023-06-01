@@ -1,7 +1,7 @@
 <div>
 <p align="center">
-<a href="mrusbkill.png" >
-  <img width="190" src="mrusbkill.png" alt="Course Hero logo">
+<a href="https://www.pixilart.com/art/usbkiller-sr2357abcd61f96" >
+  <img width="200" src="mrusbkill.png" alt="Course Hero logo">
 </a>
   </p>  
 <h1 align="center">
