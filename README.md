@@ -8,10 +8,7 @@
   usb killer
 </h1>
 <p align="center">
- A hardware kill usb port
-</p>
-<p align="center">
-Welcome to the word of high voltage
+Welcome to the world of high voltage
 </p>
 </div>
 
