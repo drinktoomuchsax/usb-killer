@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-<a href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc" >
+<a href="mrusbkill.png" >
   <img width="190" src="https://i.328888.xyz/2023/04/12/iXOQLU.png" alt="Course Hero logo">
 </a>
   </p>  
