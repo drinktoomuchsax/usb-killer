@@ -1,7 +1,7 @@
 <div>
 <p align="center">
 <a href="mrusbkill.png" >
-  <img width="190" src="https://i.328888.xyz/2023/04/12/iXOQLU.png" alt="Course Hero logo">
+  <img width="190" src="mrusbkill.png" alt="Course Hero logo">
 </a>
   </p>  
 <h1 align="center">
