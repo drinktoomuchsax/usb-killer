@@ -17,3 +17,11 @@ _This project is sponsored by [EE201-17L](https://nces.cra.moe/course/286/) as a
 [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/usb-killer)](https://github.com/drinktoomuchsax/usb-killer/blob/main/LICENSE)      [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/usb-killer?style=social)](https://github.com/drinktoomuchsax/usb-killer/stargazers/)
 
 ---
+
+# how this works
+
+# how to fork
+
+# what's the difference between two types
+
+#
