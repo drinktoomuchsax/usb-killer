@@ -19,9 +19,19 @@ _This project is sponsored by [EE201-17L](https://nces.cra.moe/course/286/) as a
 ---
 
 # How build your own usbkiller
+## BOM
+## Soldering
+## Assembly
+## Test
 
 # How this works
 
-# 
+# TO-DO
+[]redesign the pcb making it both circuits board and shell
 
-#
+# Q&A
+**Is this safe to human?**
+> yes, i have test it on myself and lots of my friends, just hurt a lot, but no obvious burning scar left
+
+**Can I change the design into even more powerful one?**  
+> yes, the output voltage could be easily boost into thousands of voltage by using more powerful battery and add more boost circuits
