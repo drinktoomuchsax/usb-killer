@@ -24,10 +24,25 @@ The schematic is drawed using JLC eda, you can [view the killer schematic on osh
 
 ![schematic](killerSchematic.png)
 
-
+## PCB 
+You can use [the gerber file](killerGerber.zip) to manufacture the pcb
 ## BOM
+
+| Name                  | Value                 | Purchase link | Comment |
+| --------------------- | --------------------- | ------------- | ------- |
+| Capacitor(0603)       | 10uF\*2, 100pF\*1     | [taobao]()    |         |
+| Resistor(0603)        | 1k ohm\*2,1.2k ohm\*1 | [taobao]()    |         |
+| LED(0805)             | RED\*1, GREEN\*1      | [taobao]()    |         |
+| Transistor            | IRFZ44NPBF\*1         | [taobao]()    |         |
+| Switch                | TS665TP 250gf 013c    | [taobao]()    |         |
+| Transformer           | diy type on taobao    | [taobao]()    |         |
+| Power management chip | TP4056                | [taobao]()    |         |
+| USB port              |                       | [taobao]()    |         |
+| Diode                 | DO_1N4007             | [taobao]()    |         |
+
 ## Soldering
-## Assembly
+
+Follow this map to solder.
 ## Test
 
 # How this works
