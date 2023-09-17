@@ -29,7 +29,7 @@ _This project is sponsored by [SUSTech-EE201-17L](https://nces.cra.moe/course/28
 # TO-DO
 
 - [ ] redesign the pcb making it both circuits board and shell
-- [ ] writing a doc
+- [x] writing a doc
 
 # Q&A
 **Is this safe to human?**
