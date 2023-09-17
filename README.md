@@ -18,10 +18,10 @@ _This project is sponsored by [EE201-17L](https://nces.cra.moe/course/286/) as a
 
 ---
 
-# how this works
+# How build your own usbkiller
 
-# how to fork
+# How this works
 
-# what's the difference between two types
+# 
 
 #
