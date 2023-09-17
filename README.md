@@ -35,5 +35,5 @@ _This project is sponsored by [SUSTech-EE201-17L](https://nces.cra.moe/course/28
 **Is this safe to human?**
 > yes, i have test the killer on myself and lots of my friends. It just hurts a lot, but no obvious burning scar left
 
-**Can I change the design into even more powerful one?**  
+**Can I turn the design into even more powerful one?**  
 > yes, the output voltage could be easily boost into thousands of voltage by using more powerful battery and add more boost circuits
