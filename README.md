@@ -23,8 +23,8 @@ Here in this repo, USB Killer is a device that can output hundreds of voltage to
 
 This version of Killer could drop about **260V** AC RMS votalge, which means it can drop about **360V** AC peak voltage
 
-![voltage](1694955314653.jpg)
-![howKillerLooksLike](1694955314660.jpg)
+![voltage](https://i.ibb.co/7b7zN2t/1694955314653.jpg)
+![howKillerLooksLike](https://i.ibb.co/PjSqFKC/1694955314660.jpg)
 
 By changing the boosting part of circuit and using power 40C Panasonic 18650, we can easily get about **3kV**. (1mm electrical spark in air is about 3kV)
 
@@ -35,7 +35,7 @@ By changing the boosting part of circuit and using power 40C Panasonic 18650, we
 ## Schematic
 The schematic is drawed using JLC eda, you can [view the killer schematic on oshwHub](https://oshwhub.com/drinktoomuchsax/usb_killer_ac-version) or below.
 
-![schematic](killerSchematic.png)
+![schematic](https://i.ibb.co/F6y3mpP/killer-Schematic.png)
 
 ## PCB 
 You can use [the gerber file](killerGerber.zip) to manufacture the pcb
