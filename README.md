@@ -19,6 +19,12 @@ _This project is sponsored by [SUSTech-EE201-17L](https://nces.cra.moe/course/28
 ---
 
 # How build your own usbkiller
+## Schematic
+The schematic is drawed using JLC eda, you can [view the killer schematic on oshwHub](https://oshwhub.com/drinktoomuchsax/usb_killer_ac-version) or below.
+
+![schematic](killerSchematic.png)
+
+
 ## BOM
 ## Soldering
 ## Assembly
