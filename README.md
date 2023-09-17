@@ -12,7 +12,7 @@ Welcome to the world of high voltage
 </p>
 </div>
 
-_This project is sponsored by [SUSTech-EE201-17L](https://nces.cra.moe/course/286/) as a DIY projecy._ 
+_This project is sponsored by [SUSTech-EE201-17L](https://nces.cra.moe/course/286/) as a DIY project._ 
 
 [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/usb-killer)](https://github.com/drinktoomuchsax/usb-killer/blob/main/LICENSE)      [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/usb-killer?style=social)](https://github.com/drinktoomuchsax/usb-killer/stargazers/)
 
@@ -27,7 +27,8 @@ This version of Killer could drop about **260V** AC RMS votalge, which means it 
 ![howKillerLooksLike](1694955314660.jpg)
 
 By changing the boosting part of circuit and using power 40C Panasonic 18650, we can easily get about **3kV**. (1mm electrical spark in air is about 3kV)
-![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1OWswb2t3b2F3bXhhcmU3cDhscmJtdHUwOWFsa2FtaDRkM3gyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/siCb2NLkmWM35Jy9Xa/giphy.gif)
+
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdxM2RtazRmaW51OHRvOTVhZ2ZyZWxsZDFqdGkxaDVvd3h5cGRyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/siCb2NLkmWM35Jy9Xa/giphy-downsized-large.gif)
 
 
 # How build your own USB-Killer
