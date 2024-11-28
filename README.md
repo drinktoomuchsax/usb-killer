@@ -50,7 +50,7 @@ You can use [the gerber file](killerGerber.zip) to manufacture the pcb
 | LED(0805)             | RED\*1, GREEN\*1                            | [taobao]()    |         |
 | Transistor            | IRFZ44NPBF\*1                               | [taobao]()    |         |
 | Switch                | TS665TP 250gf 013c                          | [taobao]()    |         |
-| Transformer           | diy type on taobao                          | [taobao]()    |         |
+| Transformer           | diy type on taobao                          | [taobao](https://item.taobao.com/item.htm?_u=s3t2jj8g8ff7&id=556365649734&skuId=4803134602036&spm=a1z09.2.0.0.16272e8dxNxUgX)    |         |
 | Power management chip | TP4056                                      | [taobao]()    |         |
 | USB port              |                                             | [taobao]()    |         |
 | Diode                 | DO_1N4007                                   | [taobao]()    |         |
